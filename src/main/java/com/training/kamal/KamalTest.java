@@ -1,4 +1,4 @@
-package com.training.Kamal;
+package com.training.kamal;
 
 public class KamalTest {
 
